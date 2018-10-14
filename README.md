@@ -1,5 +1,5 @@
 # Raspberry-Pi
-Raspberry Pi擔任機臺端（arduino）到管理端（MES_Server）間的中介管理層
+Raspberry Pi擔任機臺端（Arduino）到管理端（MES_Server）間的中介管理層
 
 ## 主要功能
 * 負責監聽機臺端發出的事件訊號與狀態，經簡單預處理後將需要資訊以json格式經由TCP/IP協定傳送至管理端
